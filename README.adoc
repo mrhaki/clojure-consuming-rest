@@ -1,0 +1,9 @@
+= Clojure Consuming REST Application
+
+A Clojure implementation of the Spring Boot Getting started guide https://spring.io/guides/gs/consuming-rest/.
+
+== License
+
+Copyright © 2021 Hubert Klein Ikknk
+
+This program and the accompanying materials are made available under the terms of the Apache License 2.0 which is available at http://www.apache.org/licenses/LICENSE-2.0.
